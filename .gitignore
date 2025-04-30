@@ -10,7 +10,6 @@ __pycache__/
 # Ignore folders:
 data/
 models/
-screenshots/
 
 # Ignore Pipenv files (if you're using requirements.txt instead)
 Pipfile
