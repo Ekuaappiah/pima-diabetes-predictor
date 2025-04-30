@@ -140,14 +140,8 @@ Visit the running Streamlit app to:
 ---
 
 ## 🖼️ Screenshots
-### HOW TO USE APP
-![Input Form](images/streamlit-app-screenshot-1.jpeg)
+![Input Form](screenshots/streamlit-screenshot0-1.jpeg)
 
-### User Input Form
-![Input Form](images/streamlit-app-screenshot-2.jpeg)
-
-### Prediction Output  
-![Prediction Result](images/streamlit-app-screenshot-3.jpeg)
 
 
 ## 🔧 Tech Stack
