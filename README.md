@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project uses machine learning algorithms to predict the likelihood of a patient having Type 2 diabetes based on clinical measurements. The primary goal is to support early diagnosis and improve preventive healthcare strategies.
+This project uses machine learning algorithms to predict the presence of Type 2 diabetes in patients based on clinical measurements. The primary goal is to assist in early detection and support timely medical intervention.
 
 Dataset used: **[Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)**  
 It includes medical predictor variables such as glucose levels, BMI, insulin, age, and family history.
@@ -106,29 +106,6 @@ The application will launch at:
 [http://localhost:8501](http://localhost:8501)
 
 ---
-
-## Containerizing the Heart Disease Predictor with Docker
-
-This project can be containerized using Docker for easy deployment and execution. Follow the steps below to build and run the Docker container:
-
-### Prerequisites
-Make sure you have Docker installed on your machine. You can download and install Docker from [here](https://www.docker.com/get-started).
-
-### Steps to Containerize
-
-1. **Build the Docker Image**
-
-   To build the Docker image for the project, navigate to the project directory and run the following command in the terminal:
-   
-   ```bash
-   docker build -t Pima-Diabetes-Predictor .
-2. **Run the Docker Container**
-
-   Once the image is built, you can run the container with the following command:
-   
-   ```bash
-   docker run -it --rm Pima-Diabetes-Predictor
-
 
 ## 💻 Usage
 
