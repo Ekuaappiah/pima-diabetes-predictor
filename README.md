@@ -27,8 +27,7 @@ The dataset includes the following features:
 
 ## 🎯 Objective
 
-To develop an accurate and interpretable machine learning model to predict diabetes presence and expose the model through a web interface.
-
+To develop an accurate and interpretable machine learning model to predict current diabetes status and expose the model through a user-friendly web interface.
 ---
 
 ## 🧠 Models & Approach
@@ -52,7 +51,8 @@ To develop an accurate and interpretable machine learning model to predict diabe
    - Confusion Matrix
 
 4. **Prediction**
-   - Predict diabetes risk using the trained model
+   - Predict diabetes presence using the trained model
+
 
 ---
 
